@@ -1,77 +1,93 @@
-👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm [Your Name]
 
-Backend Developer • AWS Cloud Engineer Enthusiast ☁️
+### Backend Developer in Progress • AWS Cloud Engineer Enthusiast ☁️
 
-I'm currently studying Backend Development and AWS Cloud
-Engineering, with an interest in building reliable, scalable, and
-practical applications.
+I'm a developer currently studying and building my skills in **Backend Development** and **AWS Cloud Engineering**.
 
-I enjoy working with APIs, databases, server-side development, and
-learning how applications are deployed and managed in the cloud.
+I enjoy building applications, designing APIs, working with databases, and exploring how modern applications are deployed and managed in the cloud.
 
-🎓 Currently studying and improving my skills
-⚙️ Interested in Backend Development
-☁️ Exploring AWS & Cloud Engineering
-🚀 Building and learning through hands-on projects
+🎓 Currently studying and improving my development skills
+⚙️ Interested in **Backend Development**
+☁️ Passionate about **AWS & Cloud Engineering**
+🚀 Building, experimenting, and continuously improving
 
-💻 Languages
+---
 
-<p>
+## 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=js" width="40" alt="JavaScript" />{=html}
-
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://skillicons.dev/icons?i=js" height="20" alt="JavaScript" />
+  </a>
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://skillicons.dev/icons?i=ts" height="20" alt="TypeScript" />
+  </a>
 </p>
 
-⚙️ Backend & Frameworks
+---
 
-<p>
+## ⚙️ Backend & Frameworks
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,prisma" height="40" alt="Node.js, Express.js, Next.js, Prisma" />{=html}
-
+<p align="left">
+  <a href="https://nodejs.org/">
+    <img src="https://skillicons.dev/icons?i=nodejs" height="20" alt="Node.js" />
+  </a>
+  <a href="https://expressjs.com/">
+    <img src="https://skillicons.dev/icons?i=express" height="20" alt="Express.js" />
+  </a>
+  <a href="https://nextjs.org/">
+    <img src="https://skillicons.dev/icons?i=nextjs" height="20" alt="Next.js" />
+  </a>
+  <a href="https://www.prisma.io/">
+    <img src="https://skillicons.dev/icons?i=prisma" height="20" alt="Prisma" />
+  </a>
 </p>
 
-🗄️ Databases
+---
 
-<p>
+## 🗄️ Databases
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres" height="40" alt="MySQL, PostgreSQL" />{=html}
-
+<p align="left">
+  <a href="https://www.mysql.com/">
+    <img src="https://skillicons.dev/icons?i=mysql" height="20" alt="MySQL" />
+  </a>
+  <a href="https://www.postgresql.org/">
+    <img src="https://skillicons.dev/icons?i=postgres" height="20" alt="PostgreSQL" />
+  </a>
 </p>
 
-☁️ Cloud
+---
 
-<p>
+## ☁️ Cloud & Tools
 
-<img src="https://skillicons.dev/icons?i=aws" width="40" alt="AWS" />{=html}
-
+<p align="left">
+  <a href="https://aws.amazon.com/">
+    <img src="https://skillicons.dev/icons?i=aws" height="20" alt="AWS" />
+  </a>
+  <a href="https://git-scm.com/">
+    <img src="https://skillicons.dev/icons?i=git" height="20" alt="Git" />
+  </a>
+  <a href="https://github.com/">
+    <img src="https://skillicons.dev/icons?i=github" height="20" alt="GitHub" />
+  </a>
+  <a href="https://www.docker.com/">
+    <img src="https://skillicons.dev/icons?i=docker" height="20" alt="Docker" />
+  </a>
 </p>
 
-🎯 Currently Focusing On
+---
 
-⚙️ Backend development & REST APIs
+## 🎯 Currently Focusing On
 
-🗄️ Database design with PostgreSQL and MySQL
+* ⚙️ Backend architecture and REST API development
+* 🗄️ Database design and optimization
+* 🔐 Authentication and API security
+* ☁️ AWS cloud services and infrastructure
+* 🐳 Docker and containerized applications
+* 🏗️ Scalable and production-ready backend systems
 
-🔐 Authentication and API security
-
-☁️ AWS services and cloud infrastructure
-
-🏗️ Building scalable backend applications
-
-📫 Connect With Me
-
-<p>
-
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">{=html}
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />{=html}
-</a>{=html} <a href="mailto:YOUR-EMAIL@example.com">{=html}
-<img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" />{=html}
-</a>{=html}
-
-</p>
+---
 
 <p align="center">
-
-<i>{=html}Build • Learn • Deploy ☁️</i>{=html}
-
+  <i>Build. Learn. Deploy. Repeat. ☁️</i>
 </p>
