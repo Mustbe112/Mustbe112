@@ -49,10 +49,10 @@ I enjoy building applications, designing APIs, working with databases, and explo
 
 <p align="left">
   <a href="https://www.mysql.com/">
-    <img src="https://skillicons.dev/icons?i=mysql" height="20" alt="MySQL" />
+    <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="MySQL" />
   </a>
   <a href="https://www.postgresql.org/">
-    <img src="https://skillicons.dev/icons?i=postgres" height="20" alt="PostgreSQL" />
+    <img src="https://skillicons.dev/icons?i=postgres" height="30" alt="PostgreSQL" />
   </a>
 </p>
 
