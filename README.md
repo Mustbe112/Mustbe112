@@ -17,7 +17,7 @@ I enjoy building applications, designing APIs, working with databases, and explo
 
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://skillicons.dev/icons?i=js" height="20" alt="JavaScript" />
+    <img src="https://skillicons.dev/icons?i=js" height="25" alt="JavaScript" />
   </a>
   <a href="https://www.typescriptlang.org/">
     <img src="https://skillicons.dev/icons?i=ts" height="20" alt="TypeScript" />
