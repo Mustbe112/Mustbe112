@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm William
 
 ### Backend Developer in Progress • AWS Cloud Engineer Enthusiast ☁️
 
@@ -17,10 +17,10 @@ I enjoy building applications, designing APIs, working with databases, and explo
 
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://skillicons.dev/icons?i=js" height="25" alt="JavaScript" />
+    <img src="https://skillicons.dev/icons?i=js" height="30" alt="JavaScript" />
   </a>
   <a href="https://www.typescriptlang.org/">
-    <img src="https://skillicons.dev/icons?i=ts" height="20" alt="TypeScript" />
+    <img src="https://skillicons.dev/icons?i=ts" height="30" alt="TypeScript" />
   </a>
 </p>
 
@@ -30,16 +30,16 @@ I enjoy building applications, designing APIs, working with databases, and explo
 
 <p align="left">
   <a href="https://nodejs.org/">
-    <img src="https://skillicons.dev/icons?i=nodejs" height="20" alt="Node.js" />
+    <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="Node.js" />
   </a>
   <a href="https://expressjs.com/">
-    <img src="https://skillicons.dev/icons?i=express" height="20" alt="Express.js" />
+    <img src="https://skillicons.dev/icons?i=express" height="30" alt="Express.js" />
   </a>
   <a href="https://nextjs.org/">
-    <img src="https://skillicons.dev/icons?i=nextjs" height="20" alt="Next.js" />
+    <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="Next.js" />
   </a>
   <a href="https://www.prisma.io/">
-    <img src="https://skillicons.dev/icons?i=prisma" height="20" alt="Prisma" />
+    <img src="https://skillicons.dev/icons?i=prisma" height="30" alt="Prisma" />
   </a>
 </p>
 
@@ -62,16 +62,16 @@ I enjoy building applications, designing APIs, working with databases, and explo
 
 <p align="left">
   <a href="https://aws.amazon.com/">
-    <img src="https://skillicons.dev/icons?i=aws" height="20" alt="AWS" />
+    <img src="https://skillicons.dev/icons?i=aws" height="30" alt="AWS" />
   </a>
   <a href="https://git-scm.com/">
-    <img src="https://skillicons.dev/icons?i=git" height="20" alt="Git" />
+    <img src="https://skillicons.dev/icons?i=git" height="30" alt="Git" />
   </a>
   <a href="https://github.com/">
-    <img src="https://skillicons.dev/icons?i=github" height="20" alt="GitHub" />
+    <img src="https://skillicons.dev/icons?i=github" height="30" alt="GitHub" />
   </a>
   <a href="https://www.docker.com/">
-    <img src="https://skillicons.dev/icons?i=docker" height="20" alt="Docker" />
+    <img src="https://skillicons.dev/icons?i=docker" height="30" alt="Docker" />
   </a>
 </p>
 
