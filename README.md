@@ -1,5 +1,7 @@
 <div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:0ea5e9&height=240&section=header&text=Win%20Lwin%20Moe&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20%7C%20Backend%20%7C%20Cloud&descSize=20&descAlignY=60&animation=fadeIn" alt="Banner" width="100%" />
+
 <br />
 
 ![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
@@ -14,6 +16,11 @@
 I am a software engineering enthusiast focused on building reliable, well-structured applications across the full stack, with a strong interest in backend systems and cloud infrastructure. I enjoy turning real problems into working products, from API design and data modeling to authentication, AI integration, and deployment.
 
 My long-term direction is cloud solutions architecture on AWS, designing systems that are scalable, secure, and cost-aware.
+
+<div align="center">
+
+
+</div>
 
 ---
 
@@ -39,10 +46,15 @@ My long-term direction is cloud solutions architecture on AWS, designing systems
   <tr>
     <td width="50%" valign="top">
       <h3>Backend Development</h3>
-      <p>Designing REST APIs, authentication flows, relational data models, and background jobs that keep systems reliable.</p>
+      <p>Designing secure REST APIs with authentication, password hashing, rate limiting, relational data models, and background jobs that keep systems reliable.</p>
       <img src="https://img.shields.io/badge/REST%20APIs-0f172a?style=flat-square" alt="REST APIs" />
       <img src="https://img.shields.io/badge/JWT%20Auth-1e3a8a?style=flat-square" alt="JWT Auth" />
-      <img src="https://img.shields.io/badge/Database%20Design-0ea5e9?style=flat-square" alt="Database Design" />
+      <img src="https://img.shields.io/badge/bcrypt-0ea5e9?style=flat-square" alt="bcrypt" />
+      <img src="https://img.shields.io/badge/Rate%20Limiting-0f172a?style=flat-square" alt="Rate Limiting" />
+      <img src="https://img.shields.io/badge/CORS-1e3a8a?style=flat-square" alt="CORS" />
+      <img src="https://img.shields.io/badge/Cron%20Jobs-0ea5e9?style=flat-square" alt="Cron Jobs" />
+      <img src="https://img.shields.io/badge/File%20Uploads-0f172a?style=flat-square" alt="File Uploads" />
+      <img src="https://img.shields.io/badge/Database%20Design-1e3a8a?style=flat-square" alt="Database Design" />
     </td>
     <td width="50%" valign="top">
       <h3>Cloud Engineering</h3>
