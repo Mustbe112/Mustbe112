@@ -21,99 +21,91 @@ My long-term direction is cloud solutions architecture on AWS, designing systems
 
 ## Focus Areas
 
-| Area | What I Work On |
-| :--- | :--- |
-| **Software Engineering** | Clean architecture, maintainable code, version control workflows |
-| **Full Stack Development** | End-to-end web applications with modern frameworks |
-| **Backend Development** | REST APIs, authentication, database design, background jobs |
-| **Cloud Engineering** | AWS fundamentals, containerization, moving toward solution architecture |
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Software Engineering</h3>
+      <p>Writing clean, maintainable code with solid structure, version control discipline, and a habit of documenting what I build.</p>
+      <img src="https://img.shields.io/badge/Clean%20Code-0f172a?style=flat-square" alt="Clean Code" />
+      <img src="https://img.shields.io/badge/Architecture-1e3a8a?style=flat-square" alt="Architecture" />
+      <img src="https://img.shields.io/badge/Git%20Workflow-0ea5e9?style=flat-square" alt="Git Workflow" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>Full Stack Development</h3>
+      <p>Building complete web applications from interface to database, with modern frameworks and AI-powered features.</p>
+      <img src="https://img.shields.io/badge/Next.js-0f172a?style=flat-square" alt="Next.js" />
+      <img src="https://img.shields.io/badge/TypeScript-1e3a8a?style=flat-square" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/AI%20Integration-0ea5e9?style=flat-square" alt="AI Integration" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Backend Development</h3>
+      <p>Designing REST APIs, authentication flows, relational data models, and background jobs that keep systems reliable.</p>
+      <img src="https://img.shields.io/badge/REST%20APIs-0f172a?style=flat-square" alt="REST APIs" />
+      <img src="https://img.shields.io/badge/JWT%20Auth-1e3a8a?style=flat-square" alt="JWT Auth" />
+      <img src="https://img.shields.io/badge/Database%20Design-0ea5e9?style=flat-square" alt="Database Design" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>Cloud Engineering</h3>
+      <p>Learning to build and deploy on AWS, with containers and infrastructure fundamentals, on the path to solutions architecture.</p>
+      <img src="https://img.shields.io/badge/AWS-0f172a?style=flat-square" alt="AWS" />
+      <img src="https://img.shields.io/badge/Docker-1e3a8a?style=flat-square" alt="Docker" />
+      <img src="https://img.shields.io/badge/Solutions%20Architect-0ea5e9?style=flat-square" alt="Solutions Architect" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## Tech Stack
 
-### Languages
+<div align="center">
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<table>
+  <tr>
+    <td align="center" width="170"><b>Languages</b></td>
+    <td align="left">
+      <img src="https://skillicons.dev/icons?i=ts,js&theme=dark" alt="Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Frameworks and Runtime</b></td>
+    <td align="left">
+      <img src="https://skillicons.dev/icons?i=nodejs,express,nextjs&theme=dark" alt="Frameworks" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Databases and ORM</b></td>
+    <td align="left">
+      <img src="https://skillicons.dev/icons?i=prisma,mysql,postgres,supabase&theme=dark" alt="Databases" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Cloud and DevOps</b></td>
+    <td align="left">
+      <img src="https://skillicons.dev/icons?i=aws,docker&theme=dark" alt="Cloud and DevOps" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Version Control</b></td>
+    <td align="left">
+      <img src="https://skillicons.dev/icons?i=git,github&theme=dark" alt="Version Control" />
+    </td>
+  </tr>
+</table>
 
-### Frameworks and Runtime
+<br />
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+**Also worked with**
 
-### Databases and ORM
+![TiDB](https://img.shields.io/badge/TiDB-0f172a?style=for-the-badge&logo=tidb&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-1e3a8a?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-0ea5e9?style=for-the-badge&logo=cloudinary&logoColor=white)
+![Gemini API](https://img.shields.io/badge/Gemini%20API-0f172a?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Grok API](https://img.shields.io/badge/Grok%20API-1e3a8a?style=for-the-badge&logo=x&logoColor=white)
 
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![TiDB](https://img.shields.io/badge/TiDB-FF5A1F?style=for-the-badge&logo=tidb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-### Tools and DevOps
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-
----
-
-## Featured Projects
-
-### Sport Court Management System
-
-A RESTful API built with Node.js, Express, and MySQL. It handles authentication, coin-based payments, court bookings, QR code generation, and automated no-show detection through a scheduled cron job.
-
-**Stack:** Node.js, Express.js, TiDB (MySQL), CORS, JWT, Cron
-
-**Highlights**
-- Authentication and protected routes
-- Coin payment flow tied to bookings
-- QR code generation for booking verification
-- Cron job that detects and handles no-shows automatically
-
----
-
-### API HealthGuard
-
-A workbench that discovers an API's routes from a base URL or an OpenAPI/Postman spec, then runs zero-input health checks and labels each endpoint as **Working**, **Needs a login**, or **Broken**. Real requests can also be sent from the UI, similar to Postman, with an optional plain-language explanation of each run.
-
-**Stack:** TypeScript, Supabase, Prisma, JWT, Grok API
-
-**Highlights**
-- Automatic route discovery from a URL, OpenAPI, or Postman spec
-- Zero-input health checks with clear endpoint status labels
-- Built-in request sender
-- AI-generated explanations of results
-
----
-
-### Loss and Found System
-
-A web application where users log in to report lost or found items. When a report is submitted, AI scans existing reports for matching descriptions and notifies both parties when a match is found. A private chat then opens exclusively between the two matched users to coordinate returning the item.
-
-**Stack:** Next.js, TiDB, JWT, Cloudinary, Gemini API
-
-**Highlights**
-- AI-assisted matching between lost and found reports
-- Automatic notification to both matched users
-- Private one-to-one chat for item return
-- Image uploads handled through Cloudinary
-
----
-
-### AI Chatbot Clinic
-
-A web app where patients can browse treatments, chat with a Gemini-powered assistant, and book appointments as a guest or as a registered user.
-
-**Stack:** HTML, CSS, JavaScript, Node.js, Prisma, Supabase, Gemini API
-
-**Highlights**
-- Treatment browsing and appointment booking
-- Guest and registered-user flows
-- Conversational assistant powered by Gemini
+</div>
 
 ---
 
