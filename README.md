@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:0ea5e9&height=240&section=header&text=Win%20Lwin%20Moe&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20%7C%20Backend%20%7C%20Cloud&descSize=20&descAlignY=60&animation=fadeIn" alt="Banner" width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=0EA5E9&center=true&vCenter=true&width=600&lines=Full+Stack+Development;Backend+Engineering;Cloud+Engineering+on+AWS;Aiming+for+Solutions+Architect" alt="Typing animation" />
 
 <br />
 
