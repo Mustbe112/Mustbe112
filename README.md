@@ -17,14 +17,6 @@ I am a software engineering enthusiast focused on building reliable, well-struct
 
 My long-term direction is cloud solutions architecture on AWS, designing systems that are scalable, secure, and cost-aware.
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/win-lwin-moe-4b672a359)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](winlwinmoe33@gmail.com)
-
-
-</div>
-
 ---
 
 ## Focus Areas
