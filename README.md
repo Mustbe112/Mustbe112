@@ -1,7 +1,10 @@
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=0EA5E9&center=true&vCenter=true&width=600&lines=Full+Stack+Development;Backend+Engineering;Cloud+Engineering+on+AWS;Aiming+for+Solutions+Architect" alt="Typing animation" />
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:1e3a8a,100:0ea5e9&height=4&section=header" alt="" width="100%" />
+<br />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=44&duration=3500&pause=1000&color=0EA5E9&center=true&vCenter=true&width=800&height=70&letterSpacing=1px&lines=YOUR+FULL+NAME" alt="Name" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=1200&color=64748B&center=true&vCenter=true&width=800&height=40&repeat=true&lines=Software+Engineer;Full+Stack+Development;Backend+Engineering;Cloud+Engineering+on+AWS;Aiming+for+Solutions+Architect" alt="Typing animation" />
+<br />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:1e3a8a,100:0ea5e9&height=4&section=header" alt="" width="100%" />
 <br />
 
 ![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
