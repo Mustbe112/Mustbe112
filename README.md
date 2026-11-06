@@ -17,6 +17,14 @@ I am a software engineering enthusiast focused on building reliable, well-struct
 
 My long-term direction is cloud solutions architecture on AWS, designing systems that are scalable, secure, and cost-aware.
 
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://your-portfolio.com)
+
+</div>
+
 ---
 
 ## Focus Areas
@@ -93,37 +101,16 @@ My long-term direction is cloud solutions architecture on AWS, designing systems
       <img src="https://skillicons.dev/icons?i=git,github&theme=dark" alt="Version Control" />
     </td>
   </tr>
+  <tr>
+    <td align="center"><b>AI Tools</b></td>
+    <td align="left">
+      <img src="https://img.shields.io/badge/Cursor%20AI-0f172a?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor AI" />
+      <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" />
+    </td>
+  </tr>
 </table>
 
-<br />
-
-**Also worked with**
-
-![TiDB](https://img.shields.io/badge/TiDB-0f172a?style=for-the-badge&logo=tidb&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-1e3a8a?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-0ea5e9?style=for-the-badge&logo=cloudinary&logoColor=white)
-![Gemini API](https://img.shields.io/badge/Gemini%20API-0f172a?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Grok API](https://img.shields.io/badge/Grok%20API-1e3a8a?style=for-the-badge&logo=x&logoColor=white)
-
 </div>
-
----
-
-## Cloud Engineering
-
-**Current certification:** AWS Certified Cloud Practitioner
-
-**Goal:** AWS Certified Solutions Architect
-
-### Roadmap
-
-| Stage | Focus | Status |
-| :--- | :--- | :--- |
-| 1 | AWS Cloud Practitioner | Completed |
-| 2 | Core services: EC2, S3, RDS, VPC, IAM, Lambda | In progress |
-| 3 | Containers and deployment: Docker, ECS, CI/CD | Planned |
-| 4 | Architecture principles: Well-Architected Framework, high availability, cost optimization | Planned |
-| 5 | AWS Certified Solutions Architect (Associate) | Target |
 
 ---
 
@@ -134,26 +121,7 @@ My long-term direction is cloud solutions architecture on AWS, designing systems
 - Writing more tests and documentation for every project
 - Building the architecture knowledge needed to design production-grade cloud systems
 
----
-
-## GitHub Stats
-
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a" alt="GitHub stats" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a" alt="Top languages" height="170" />
-
-</div>
-
----
-
-## Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://your-portfolio.com)
 
 <br />
 
